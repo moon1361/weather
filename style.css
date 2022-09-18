@@ -1,0 +1,62 @@
+
+
+.main{
+    background-color: aliceblue;
+
+    display: flex;
+    
+    align-items: center;
+    height: 98vh;
+    justify-content: center;
+    
+    
+    
+}
+
+.flex{
+
+    width: 20%;
+    box-shadow: 0px 0px 3px 1px white;
+    padding: 2%;
+    
+    border-radius: 10%;
+    background-color: white;
+    
+}
+.time {
+    float: right;
+    
+    
+}
+
+.city {
+    display: inline;
+    
+}
+
+.temp{
+
+   
+   text-align: center;
+    
+}
+    
+.thunder{
+
+    
+    font-size: 50px;
+    
+}
+.flex2{
+    display: flex;
+    padding-top: 2%;
+    
+}
+.side{
+    width: 50%;
+}
+.right{
+    width: 40%;
+    padding-left: 40%;
+
+}
